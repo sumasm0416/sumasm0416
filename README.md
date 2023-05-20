@@ -1,7 +1,7 @@
 ### Hi there it's me Suma!!👋
 
 # 💫 About Me:
-🔭I'm currently a student.<br>🌱Passionate student with a Data Science edge.<br>⚡Education: BE.<br>🤔Skills and Expertise: Python, C.<br>👯Outside of work, I enjoy Hobbies such as Playing Badminton, Travelling<br><br>
+🔭I'm currently a Student.<br>🌱Passionate student with a Data Science edge.<br>⚡Education: BE.<br>🤔Skills and Expertise: Python, C.<br>👯Outside of work, I enjoy Hobbies such as Playing Badminton, Travelling<br><br>
 
 
 ## 🌐 Socials:
